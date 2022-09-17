@@ -1,4 +1,7 @@
 # React Native HTMLView [![Build status](https://api.travis-ci.org/jsdf/react-native-htmlview.svg?branch=master)](https://travis-ci.org/jsdf/react-native-htmlview)
+
+the origin repo not maintain, and it didn't support react 18, so this repo will do some update to support new react native.
+
 A component which takes HTML content and renders it as native views, with
 customisable style and handling of links, etc.
 
